@@ -1,0 +1,3 @@
+This repository is a react+tailwind initialzer because I am "DONE" configuring this thing everytime...
+
+Happy Coding... :)
