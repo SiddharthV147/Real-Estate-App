@@ -12,16 +12,16 @@ const Navbar = () => {
       {/* Logo */}
       <div className="hover:scale-105 transition-transform duration-300">
         <a href="/">
-          <img className="h-12 pl-10" src="/logo.svg" alt="Logo" />
+          <img className="h-13 pl-15" src="/logo.svg" alt="Logo" />
         </a>
       </div>
 
       {/* Right side */}
-      <ul className="flex gap-6 pr-16">
+      <ul className="flex gap-6 pr-16 font-semibold text-xl">
         <li>
           <a
             href="#"
-            className="text-white hover:scale-105 transition-transform duration-300"
+            className="text-white font-serif hover:scale-105 transition-transform duration-300"
           >
             Contact
           </a>
@@ -29,7 +29,7 @@ const Navbar = () => {
         <li>
           <a
             href="#"
-            className="text-white hover:scale-105 transition-transform duration-300"
+            className="text-white font-serif hover:scale-105 transition-transform duration-300"
           >
             About
           </a>
